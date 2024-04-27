@@ -1,4 +1,3 @@
-
 # Comandos y Git
 
 Hola! Hoy tendremos nuestro segundo desafío de programación.
