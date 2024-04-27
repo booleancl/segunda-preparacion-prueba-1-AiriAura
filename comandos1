@@ -10,6 +10,8 @@ touch lista.xls
 cd ..
 mkdir santiago
 cd santiago
+mkdir la-pintana
+cd la-pintana
 touch lista.xls
 cd ..
 mkdir maipu
